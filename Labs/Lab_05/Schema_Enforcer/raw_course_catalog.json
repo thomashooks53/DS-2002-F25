@@ -1,0 +1,86 @@
+[
+    {
+        "course_id": "DS2002",
+        "section": "001",
+        "title": "Data Science Systems",
+        "level": 200,
+        "instructors": [
+            {
+                "name": "Austin Rivera",
+                "role": "Primary"
+            },
+            {
+                "name": "Heywood Williams-Tracy",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "CHEM3410",
+        "section": "200",
+        "title": "Phys Chem - Quantum Theory",
+        "level": 300,
+        "instructors": [
+            {
+                "name": "Dr. Ian Harrison",
+                "role": "Primary"
+            },
+            {
+                "name": "Chrissy Blondin",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "BIOL3000",
+        "section": "100",
+        "title": "Cell Biology",
+        "level": 300,
+        "instructors": [
+            {
+                "name": "Dr. Mike Wormington",
+                "role": "Primary"
+            },
+            {
+                "name": "Ellie Smith",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "CHEM3721",
+        "section": "101",
+        "title": "Analytical Chemistry Lab",
+        "level": 300,
+        "instructors": [
+            {
+                "name": "Dr. Rebecca Pompano",
+                "role": "Primary"
+            },
+            {
+                "name": "Wisdom Owusu",
+                "role": "TA"
+            }
+        ]
+    },
+    {
+        "course_id": "CHEM4410",
+        "section": "001",
+        "title": "Biological Chemistry 1",
+        "level": 400,
+        "instructors": [
+            {
+                "name": "Andreas Gahlmann",
+                "role": "Primary"
+            },
+            {
+                "name": "Linda Columbus",
+                "role": "Primary"
+            },
+            {
+                "name": "Rachel Stegmeier",
+                "role": "TA"
+            }
+        ]
+    }
+]
